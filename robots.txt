@@ -1,0 +1,3 @@
+user-agent: *
+ALlow: /
+sitemap:https://orientalshorthairkitten.com/.com/sitemap.xml
