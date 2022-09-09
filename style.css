@@ -521,6 +521,30 @@ h3{
     text-decoration: none;
     color: #777;
 }
+.one{
+    display: block;
+    visibility: show;
+}
+
+/*-------------- Trusted ---------------*/
+
+.Trusted{
+    width: 20%;
+    margin: auto;
+    text-align: center;
+    padding-top: 100px;
+}
+.trust-col{
+    flex-basis: 31%;
+    border-radius: 10px;
+    margin-bottom: 5%;
+    text-align: left;
+}
+.trust-col img{
+    width: 40%;
+    border-radius: 0px;
+}
+
 
 
 
