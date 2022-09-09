@@ -523,7 +523,7 @@ h3{
 }
 .one{
     display: block;
-    visibility: show;
+    visibility: hidden;
 }
 
 /*-------------- Trusted ---------------*/
